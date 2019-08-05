@@ -11,7 +11,7 @@
                      You are logged in to {{ config('multiauth.prefix') }} side!
                 </div>
             </div>
-        </div>
+        </div> 
     </div>
 </div>
 @endsection
